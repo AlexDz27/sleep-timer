@@ -1,3 +1,5 @@
+// Build: g++ -Wall .\main.cpp -o main.exe -lPowrProf
+
 #include <windows.h>
 #include <powrprof.h>
 #include <iostream>
